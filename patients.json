@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "first_name": "Sheppard",
+    "last_name": "McCrann",
+    "email": "smccrann0@theatlantic.com",
+    "gender": "Female",
+    "indication_type": "test result",
+    "time": 7,
+    "triage": "yellow",
+    "cause": "Buksmärta",
+    "ssn": "320922-9180"
+  },
+  {
+    "id": 2,
+    "first_name": "Huntley",
+    "last_name": "Valentelli",
+    "email": "hvalentelli1@sohu.com",
+    "gender": "Male",
+    "indication_type": "pills",
+    "time": 2,
+    "triage": "blue",
+    "cause": "Ryggont",
+    "ssn": "870329-7559"
+  },
+  {
+    "id": 3,
+    "first_name": "Hana",
+    "last_name": "Hawney",
+    "email": "hhawney2@reference.com",
+    "gender": "Female",
+    "indication_type": "test result",
+    "time": 7,
+    "triage": "orange",
+    "cause": "Bruten arm",
+    "ssn": "680910-3085"
+  },
+  {
+    "id": 4,
+    "first_name": "Cort",
+    "last_name": "Fayerman",
+    "email": "cfayerman3@wp.com",
+    "gender": "Male",
+    "indication_type": "test result",
+    "time": 16,
+    "triage": "blue",
+    "cause": "Buksmärta",
+    "ssn": "330730-3978"
+  },
+  {
+    "id": 5,
+    "first_name": "Jeanna",
+    "last_name": "Sanja",
+    "email": "jsanja4@earthlink.net",
+    "gender": "Male",
+    "indication_type": "test result",
+    "time": 7,
+    "triage": "green",
+    "cause": "Ryggont",
+    "ssn": "870919-9056"
+  },
+  {
+    "id": 6,
+    "first_name": "Zuzana",
+    "last_name": "Landells",
+    "email": "zlandells5@mapy.cz",
+    "gender": "Male",
+    "indication_type": "injection",
+    "time": 20,
+    "triage": "blue",
+    "cause": "Bruten arm",
+    "ssn": "950929-7116"
+  },
+  {
+    "id": 7,
+    "first_name": "Chrystel",
+    "last_name": "Corpes",
+    "email": "ccorpes6@w3.org",
+    "gender": "Male",
+    "indication_type": "test result",
+    "time": 4,
+    "triage": "orange",
+    "cause": "Buksmärta",
+    "ssn": "321211-1672"
+  },
+  {
+    "id": 8,
+    "first_name": "Barbie",
+    "last_name": "Boolsen",
+    "email": "bboolsen7@mapquest.com",
+    "gender": "Female",
+    "indication_type": "pills",
+    "time": 7,
+    "triage": "red",
+    "cause": "Bruten arm",
+    "ssn": "761119-2464"
+  },
+  {
+    "id": 9,
+    "first_name": "Nikolia",
+    "last_name": "Speake",
+    "email": "nspeake8@apache.org",
+    "gender": "Female",
+    "indication_type": "pills",
+    "time": 6,
+    "triage": "orange",
+    "cause": "Ryggont",
+    "ssn": "310417-1560"
+  },
+  {
+    "id": 10,
+    "first_name": "Shirleen",
+    "last_name": "Dudgeon",
+    "email": "sdudgeon9@amazonaws.com",
+    "gender": "Female",
+    "indication_type": "injection",
+    "time": 17,
+    "triage": "blue",
+    "cause": "Buksmärta",
+    "ssn": "410102-2921"
+  }
+]
